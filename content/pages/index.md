@@ -27,7 +27,7 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: See More Properti
+      - label: See More Properties
         altText: ''
         url: /
         showIcon: true
