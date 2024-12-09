@@ -126,10 +126,12 @@ sections:
         type: FeaturedItem
       - title: 200%
         subtitle: Faster Document Processing
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Revolutionizing property documentation, our advanced digital workflow
+          and cutting-edge technology streamline transactions, reducing
+          processing time from weeks to days, ensuring clients experience
+          unprecedented efficiency and rapid service delivery.
+
         image:
           url: /images/icon3.svg
           altText: Featured icon three
