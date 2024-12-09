@@ -69,10 +69,12 @@ sections:
       - type: FeaturedItem
         title: 50k
         subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+
+          With a proven track record of serving over 50,000 clients across
+          diverse property markets. Our extensive client base represents a
+          testament to our commitment to personalized service, strategic
+          insights, and successful property transactions.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
