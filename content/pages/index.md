@@ -240,7 +240,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Grow your business 10x faster
+      text: "Get Your\_Personalized Portfolio Optimization"
       color: text-dark
       styles:
         self:
