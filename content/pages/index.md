@@ -246,7 +246,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is a subtitle
+    subtitle: Best Property Solutions
     text: >
 
       Unlike generic real estate services, we craft bespoke property investment
