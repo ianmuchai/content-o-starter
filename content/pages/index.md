@@ -240,7 +240,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: "Get Your\_Personalized Portfolio Optimization"
+      text: Get Personalized Portfolio Optimization
       color: text-dark
       styles:
         self:
