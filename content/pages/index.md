@@ -247,11 +247,14 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: This is a subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+
+      Unlike generic real estate services, we craft bespoke property investment
+      strategies tailored to each client's unique financial goals. Our approach
+      includes detailed risk assessments, customized investment recommendations,
+      and ongoing portfolio management. We don't just facilitate transactions;
+      we develop long-term wealth-building frameworks that align with individual
+      investor profiles, financial capacities, and growth objectives.
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
