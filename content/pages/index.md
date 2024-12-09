@@ -7,7 +7,7 @@ sections:
       text: Your Next Home Awaits
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: The right time is Now!!
     text: >+
       "Discover Your Dream Property: Transforming Land into Lifelong
       Opportunities At LandMark Properties, we don't just sell land – we help
