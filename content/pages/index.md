@@ -99,10 +99,12 @@ sections:
               borderRadius: x-large
       - title: 20yrs
         subtitle: Legit Transactions
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Our legacy of excellence is underscored by 20 years of legitimate,
+          transparent property transactions. Our two decades of consistent
+          performance demonstrate not just longevity, but a proven track record
+          of delivering reliable, professional property services that transform
+          client aspirations into tangible investments.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
