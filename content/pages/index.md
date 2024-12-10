@@ -618,7 +618,7 @@ sections:
     items:
       - title: Empty Land Lots
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: Buy Your Parcel With Us
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
