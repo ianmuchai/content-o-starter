@@ -298,7 +298,7 @@ sections:
         self:
           textAlign: left
       type: TitleBlock
-    subtitle: Section with a video subtitle
+    subtitle: Valuation That Adds Up
     text: >
       Our advanced valuation methodology combines sophisticated market analysis,
       geospatial technology, and deep local market insights to provide precise,
