@@ -339,9 +339,12 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Increase your reach
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    text: >+
+
+      We don't just transact; we partner with you to unlock your property's full
+      potential, ensuring every investment decision is informed, strategic, and
+      aligned with your long-term objectives.
+
     actions:
       - label: Get started
         url: /
