@@ -300,12 +300,11 @@ sections:
       type: TitleBlock
     subtitle: Section with a video subtitle
     text: >
-
       Our advanced valuation methodology combines sophisticated market analysis,
       geospatial technology, and deep local market insights to provide precise,
-      data-driven property assessments. We utilize cutting-edge GIS mapping,
-      historical trend analysis, and comprehensive environmental assessments to
-      deliver accurate land valuations that reflect true market potential.
+      data-driven property assessments. We utilize cutting-edge GIS mapping and
+      comprehensive environmental assessments to deliver accurate land
+      valuations that reflect true market potential.
     actions: []
     media:
       title: Title of the video
