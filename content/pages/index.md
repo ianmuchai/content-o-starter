@@ -292,7 +292,7 @@ sections:
     type: GenericSection
   - type: GenericSection
     title:
-      text: Generic section with a video
+      text: Land Valuation Excellence
       color: text-dark
       styles:
         self:
