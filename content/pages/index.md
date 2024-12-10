@@ -378,7 +378,7 @@ sections:
       type: TitleBlock
     subtitle: Be in good company
     text: >
-      A service that provides advice and guidance to startups and small
+      A service that provides advice and guidance to beginners and small
       businesses.
     actions:
       - label: Get started
