@@ -617,7 +617,7 @@ sections:
     subtitle: Featured items section subtitle
     items:
       - title: Empty Land Lots
-        tagline: This is the tagline
+        tagline: ''
         subtitle: Buy Your Parcel With Us
         text: |+
           Buy your land
