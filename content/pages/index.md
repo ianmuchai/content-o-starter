@@ -703,7 +703,7 @@ sections:
         textAlign: center
     type: FeaturedItemsSection
   - title:
-      text: Generic Section With A Form
+      text: Get In Touch With Us Today
       color: text-dark
       type: TitleBlock
     subtitle: Section with a form subtitle
