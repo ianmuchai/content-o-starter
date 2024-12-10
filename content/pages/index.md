@@ -665,7 +665,7 @@ sections:
         type: FeaturedItem
       - title: Apartment
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: Buy a Unit or Apartment With Us
         text: >
           Learn from the tutorial and build your first awesome Netlify Create
           site.
