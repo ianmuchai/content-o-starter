@@ -299,11 +299,13 @@ sections:
           textAlign: left
       type: TitleBlock
     subtitle: Section with a video subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+
+      Our advanced valuation methodology combines sophisticated market analysis,
+      geospatial technology, and deep local market insights to provide precise,
+      data-driven property assessments. We utilize cutting-edge GIS mapping,
+      historical trend analysis, and comprehensive environmental assessments to
+      deliver accurate land valuations that reflect true market potential.
     actions: []
     media:
       title: Title of the video
