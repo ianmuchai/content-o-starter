@@ -642,7 +642,7 @@ sections:
         type: FeaturedItem
       - title: Family Homes
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: Buy Your Home With Us
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.
         image:
