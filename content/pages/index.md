@@ -257,7 +257,7 @@ sections:
       investor profiles, financial capacities, and growth objectives.
     media:
       title: Title of the video
-      url: /images/placeholder-video.mp4
+      url: 'https://youtu.be/1ovIKzSpNQk'
       controls: false
       aspectRatio: '16:9'
       styles:
