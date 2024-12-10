@@ -640,7 +640,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Feature Item Two
+      - title: Family Homes
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
