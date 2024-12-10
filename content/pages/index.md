@@ -706,7 +706,7 @@ sections:
       text: Get In Touch With Us Today
       color: text-dark
       type: TitleBlock
-    subtitle: Section with a form subtitle
+    subtitle: ''
     text: |+
 
 
