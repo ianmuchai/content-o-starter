@@ -644,7 +644,7 @@ sections:
         tagline: ''
         subtitle: Buy Your Home With Us
         text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+          Buy Your Home
         image:
           url: /images/abstract-feature2.svg
           altText: Placeholder image
